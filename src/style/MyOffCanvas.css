@@ -1,0 +1,20 @@
+.blood-bank-icon{
+    margin-right: 40px;
+}
+.menu-close{
+    background-color: bisque;
+    /* background-color: rgb(223, 176, 176); */
+    font-size: larger;
+    color: brown;
+}
+.mlink{
+    color: black;
+    text-decoration: none;
+}
+.icon-off{
+    margin-right: 15px;
+    color: red;
+}
+.off-div{
+    width: 100%;
+}

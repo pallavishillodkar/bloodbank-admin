@@ -1,0 +1,8 @@
+.main-allrequest{
+    height: 100vh;
+    width: 100%;
+    background-color: wheat;
+}
+.allrequest-card{
+    background-color: rgb(230, 196, 184);
+}
